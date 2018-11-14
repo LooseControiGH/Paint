@@ -1,0 +1,27 @@
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Руслан\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Desktop\Paint\Paint\obj\Debug\Paint.exe
+D:\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+D:\Desktop\Paint\Paint\bin\Debug\Paint.exe
+D:\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+D:\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\LooseControl\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\LooseControl\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\LooseControl\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\LooseControl\Desktop\Paint\Paint\obj\Debug\Paint.pdb
